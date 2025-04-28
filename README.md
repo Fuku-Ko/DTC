@@ -2,7 +2,7 @@
 Decision Tree Classifier written in fortran
 
 ## 1.コードを書いた目的
-勉強用。
+趣味用。
 
 ## 2.コードの目的
 以下の縛りの下で、できる限りPythonの決定木の出力を模倣すること。
@@ -35,4 +35,7 @@ Decision Tree Classifier written in fortran
 
 ## 5.テスト結果(編集中)
 
-
+## 6.そのほかメモ
+このコードは、最小ノードの取り扱いでPythonのもの(scikit-learn)とは一致しないと思われる。
+今後、修正していく。
+　※すみません、力不足です。
