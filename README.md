@@ -37,5 +37,7 @@ Decision Tree Classifier written in fortran
 
 ## 6.そのほかメモ
 このコードは、最小ノードの取り扱いでPythonのもの(scikit-learn)とは一致しないと思われる。
+
 今後、修正していく。
-　※すみません、力不足です。
+
+ ※すみません、力不足です。
